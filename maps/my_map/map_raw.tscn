@@ -1,7 +1,7 @@
 [gd_scene load_steps=21 format=3 uid="uid://c61sp03tpj25j"]
 
 [ext_resource type="Script" path="res://maps/my_map/logic.gd" id="1_1pd3l"]
-[ext_resource type="Material" uid="uid://rdhrhgrb78ls" path="res://addons/cyclops_level_builder/materials/grid.tres" id="2_bdjlo"]
+[ext_resource type="Material" uid="uid://rdhrhgrb78ls" path="res://resources/materials/grid.tres" id="2_bdjlo"]
 [ext_resource type="Script" path="res://addons/cyclops_level_builder/nodes/cyclops_block.gd" id="2_xm24y"]
 [ext_resource type="Script" path="res://addons/cyclops_level_builder/resources/convex_block_data.gd" id="3_gtqwo"]
 
